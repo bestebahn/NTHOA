@@ -1,0 +1,4 @@
+{
+  "embed_model": "text-embedding-3-large",
+  "source": "pdf_header_aware"
+}
